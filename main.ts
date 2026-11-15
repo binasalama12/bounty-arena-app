@@ -1,3 +1,6 @@
+// Bounty Arena — make.fun competition frontend.
+// Routes: #/ (board), #/bounty/<slug>, #/leaderboard, #/profile/<handle>.
+// Author: binasalama12
 // A working makefun-frontend-01 entry (Node 22, standard library only): the frontend is this directory's app/
 // folder, plain static files a browser opens at app/index.html (ES modules, CSS, no build step), reading make.fun's
 // public API at https://make.fun/api. The program hands it in: it copies app/ and screenshots/ from beside this file
